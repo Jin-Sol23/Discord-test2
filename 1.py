@@ -44,7 +44,7 @@ for i in range(len(s)):
     elif result == 'd':
         print('D', end='')
 
-# 문제 3 - 풀이 3 (ASKII)
+# 문제 3 - 풀이 3 (ASCII)
 s = "Hello World"
 for i in s:
     print(ord(i)) # 문자열 s를 for문으로 한 글자씩 출력하고, 아스키코드 10진수로 변환
